@@ -1,0 +1,11 @@
+Requirements: Windows OS, Python 3.X.X (64-bit)
+Procedure:
+1) Install python 3.x.x 64 bit.
+2) Now add the python/script path to the ENVIROMENT VARIABLES (control panel--->Advanced Setting)
+3) Go to command prompt (run as administrator) type "pip install chatterbot" and press enter.
+4)Change the directory from C:\\ to where the python file is present.
+5)Here the python file "ha.py" is the code for chatterbot
+6)After changing the directory in cmd, enter the following
+                                           "python ha(filename).py"
+7)...........
+8)The chatbot is ready to have a conversation with you!!!
